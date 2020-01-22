@@ -21,6 +21,7 @@
 		"typescript": "^3.7.4"
 	},
 	"alias": {
+		"src": "./src",
 		"misc": "./src/misc",
 		"components": "./src/components"
 	}
